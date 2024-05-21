@@ -9,5 +9,5 @@
 - The words that describe my personality are - Easygoing, Generous, Perceptive, Resilient and Thoughtful.
 - I spend my free time learning new tech tools, balancing work and personal interests.
 - If my background and capabilities resonate with your current endeavors, I would welcome the chance to explore how we can work together effectively.
-- ⚡ Fun fact: ...
+
 
