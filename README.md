@@ -2,7 +2,7 @@
 
 
 
-- I am Umesh Torawane🕵.
+- Hi, I am Umesh🕵.
 - I hold a **Masters** degree 🎓 in **Technology Management** from **Aalborg University** in Copenhagen, Denmark🇩🇰.
 - And a **Bachelors** degree 🎓 in **Information Technology** from **University of Pune**, India🇮🇳.
 - With over seven years of experience as a Software Engineer, I am currently serving as a  **Delivery Consultant** at **IBM Denmark**🇩🇰.
