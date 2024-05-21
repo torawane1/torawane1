@@ -9,7 +9,7 @@ I hold Masters degree in Technology Management from Aalborg University in Copenh
 *   🌍  I'm based in Copenhagen, Denmark
 *   🖥️  See my portfolio at [The Solo Made](http://thesolomade.com)
 *   ✉️  You can contact me at [torawane.umesh@gmail.com](mailto:torawane.umesh@gmail.com)
-*   🧠  I'm learning advance chess tactics and improving ranking on chess.com
+*   🧠  I'm learning advance chess tactics and improving rank on chess.com
 
 ### Skills 
 
