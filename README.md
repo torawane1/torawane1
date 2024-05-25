@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 DevOps Engineer
 ---------------
 
-I hold Masters degree in Technology Management from Aalborg University in Copenhagen, Denmark🇩🇰. And a Bachelors degree in Information Technology from Pune Institute of Computer Technology, India🇮🇳. With over seven years of experience in IT, I am currently serving as a Delivery Consultant at IBM Denmark🇩🇰.
+I hold Masters degree in Technology Management from Aalborg University in Copenhagen, Denmark. And a bachelor's degree in Information Technology from Pune Institute of Computer Technology, India🇮🇳. With over seven years of experience in IT, I am currently serving as a Delivery Consultant at IBM Denmark🇩🇰.
 
 *   🌍  I'm based in Copenhagen, Denmark
 *   🖥️  See my portfolio at [The Solo Made](http://thesolomade.com)
